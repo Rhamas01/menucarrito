@@ -1,0 +1,82 @@
+.imagen{
+    max-width:100%;
+}
+
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+body{
+    margin: 0;
+    background-color: #f8d36e;
+    overflow-x: hidden;
+    background-image: url("img/fondo.png");
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
+.modal-content{
+    background-color: #E3D8D6;
+}
+.parrafo{
+    font-weight: 900;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.boton{
+    opacity:0;
+}
+
+.logo img {
+    width: 60px;
+    height: 60px;
+}
+
+.logoImg {
+    width: 70px;
+}
+
+.box {
+    margin-left: 12%;
+    margin-bottom: 20px;
+   
+    
+
+}
+.box img {
+    width: 100px;
+    margin: auto;
+}
+
+.card{
+    margin-left: 15px;
+    text-align: center;
+    border-radius: 20px;
+    background: rgba(250, 241, 228, 0.5);;
+}
+
+.navbar-toggler{
+    margin-right: 20px;
+}
+
+.offcanvas-header .btn-close{
+    margin-right: 20px;
+}
