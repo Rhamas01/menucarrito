@@ -1,7 +1,7 @@
 const stockProductos = [
   {
     id: 1,
-    nombre: "Hamburguesa sensilla",
+    nombre: "Hamburguesa sencilla",
     cantidad: 1,
     desc: "Carne, tomate, queso, lechuga",
     precio: 10000,
@@ -41,7 +41,7 @@ const stockProductos = [
   },
   {
     id: 6,
-    nombre: "Perro sensillo",
+    nombre: "Perro sencillo",
     cantidad: 1,
     desc: "Salchicha, queso, salsa",
     precio: 10000,
