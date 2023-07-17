@@ -9,8 +9,8 @@ a{
     font-weight:700;
 }
 body{
-    position:absolute;
-    margin: 0;
+    display: flex;
+    justify-content: center;
     background-color: #f8d36e;
     overflow-x: hidden;
     background-image: url("img/fondo.png");
@@ -68,7 +68,7 @@ a{
 }
 
 .card{
-    margin: autopx;
+    margin: auto;
     text-align: center;
     border-radius: 20px;
     background: rgba(250, 241, 228, 0.5);;
