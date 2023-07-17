@@ -37,7 +37,7 @@ $form.addEventListener('submit', (event) => {
        
         let message = `send?phone=${phone}
         &text=*_Formulario_*%0A*Contacto*%0A%0A*¿Cual es tu nombre?*%0A${name}
-        %0A*_Direccion_*%0A${dir}%0A*_Pedido_*%0A${output}`
+        %0A*_Direccion_*%0A${dir}%0A*_Pedido_*%0A${output}*%0A`
 
 
         if (isMobile()) {
