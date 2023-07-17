@@ -83,5 +83,5 @@ a{
 }
 
 .btn:visited {
-    background-color: rgba(150, 120, 228, 0.5);
+    background: rgba(150, 120, 228, 0.5);
 }
