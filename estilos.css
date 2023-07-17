@@ -71,7 +71,7 @@ a{
     margin: auto;
     text-align: center;
     border-radius: 20px;
-    background: rgba(250, 241, 228, 0.5);;
+    background: rgba(250, 241, 228, 0.5);
 }
 
 .navbar-toggler{
@@ -80,4 +80,8 @@ a{
 
 .offcanvas-header .btn-close{
     margin-right: 20px;
+}
+
+.btn:visited {
+    background-color: rgba(150, 120, 228, 0.5);
 }
